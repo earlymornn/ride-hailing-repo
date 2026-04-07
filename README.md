@@ -4,6 +4,8 @@
 
 # ride-hailing-repo
 
+535250149_Amelia Febriani
+
 535250122_GraciaChristySonggigilan
 
 535250139 - Nabila Salma
@@ -16,4 +18,5 @@ Fui Hung - 535250151
 
 
 535250148 Marsyha
+
 
