@@ -1,8 +1,10 @@
 
-535250148 Marsyha
+
 
 
 # ride-hailing-repo
+
+535250149_Amelia Febriani
 
 535250122_GraciaChristySonggigilan
 
@@ -16,4 +18,5 @@ Fui Hung - 535250151
 
 
 535250148 Marsyha
+
 
